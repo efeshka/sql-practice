@@ -1,0 +1,16 @@
+-- LeetCode 182: Duplicate Emails
+
+-- DB: PostgreSQL
+
+-- Problem: Find all duplicate emails
+
+-- Approach:
+-- 1) Group all emails by name
+-- 2) Select those who occur more than once
+
+-- Code:
+
+SELECT email
+FROM Person
+GROUP BY email
+HAVING COUNT(email) > 1
