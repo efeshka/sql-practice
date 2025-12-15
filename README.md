@@ -2,7 +2,10 @@
 
 This repository contains SQL problems and solutions relevant for IT / Data Analyst interviews.
 
-Topics:
+## Database
+- PostgreSQL
+
+##Topics:
 - JOINs (INNER, LEFT, RIGHT, FULL)
 - Aggregations and GROUP BY
 - Subqueries (including correlated)
