@@ -5,7 +5,7 @@ This repository contains SQL problems and solutions relevant for IT / Data Analy
 ## Database
 - PostgreSQL
 
-##Topics:
+## Topics:
 - JOINs (INNER, LEFT, RIGHT, FULL)
 - Aggregations and GROUP BY
 - Subqueries (including correlated)
